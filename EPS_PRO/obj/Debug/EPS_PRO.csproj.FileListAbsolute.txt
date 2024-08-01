@@ -1,0 +1,12 @@
+C:\Users\AL_WSABI FON\source\repos\EPS_PRO\EPS_PRO\bin\Debug\EPS_PRO.exe.config
+C:\Users\AL_WSABI FON\source\repos\EPS_PRO\EPS_PRO\bin\Debug\EPS_PRO.exe
+C:\Users\AL_WSABI FON\source\repos\EPS_PRO\EPS_PRO\bin\Debug\EPS_PRO.pdb
+C:\Users\AL_WSABI FON\source\repos\EPS_PRO\EPS_PRO\obj\Debug\EPS_PRO.csproj.AssemblyReference.cache
+C:\Users\AL_WSABI FON\source\repos\EPS_PRO\EPS_PRO\obj\Debug\EPS_PRO.csproj.SuggestedBindingRedirects.cache
+C:\Users\AL_WSABI FON\source\repos\EPS_PRO\EPS_PRO\obj\Debug\EPS_PRO.Properties.Resources.resources
+C:\Users\AL_WSABI FON\source\repos\EPS_PRO\EPS_PRO\obj\Debug\EPS_PRO.csproj.GenerateResource.cache
+C:\Users\AL_WSABI FON\source\repos\EPS_PRO\EPS_PRO\obj\Debug\EPS_PRO.csproj.CoreCompileInputs.cache
+C:\Users\AL_WSABI FON\source\repos\EPS_PRO\EPS_PRO\obj\Debug\EPS_PRO.exe
+C:\Users\AL_WSABI FON\source\repos\EPS_PRO\EPS_PRO\obj\Debug\EPS_PRO.pdb
+C:\Users\AL_WSABI FON\source\repos\EPS_PRO\EPS_PRO\obj\Debug\EPS_PRO.EPS.resources
+C:\Users\AL_WSABI FON\source\repos\EPS_PRO\EPS_PRO\obj\Debug\EPS_PRO.Home.FormHome.resources
